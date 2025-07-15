@@ -1,0 +1,1 @@
+<Placeholder for Platform.jsx - assumed to exist>
